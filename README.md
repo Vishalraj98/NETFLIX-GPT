@@ -21,4 +21,6 @@
   - Search Bar
   - Movie Suggestions
 
+
     
+ 
